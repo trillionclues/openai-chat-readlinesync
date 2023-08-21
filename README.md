@@ -1,6 +1,4 @@
-# Path: README.md
-
-# Chat Completion Demo with OpenAI GPT-3.5 + ReadlineSync
+# CMD chat demo with OpenAI GPT-3.5 + ReadlineSync
 
 This is a demo of a chat completion system using OpenAI's GPT-3.5 model and Node.js's ReadlineSync library. It is based on the [GPT-3 Playground]
 
